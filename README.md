@@ -1,2 +1,3 @@
 # cpp-design-patterns
-Design Patterns (C++)
+
+## [GoF](./gof)
